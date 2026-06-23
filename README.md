@@ -6,6 +6,10 @@
 
 ---
 
+<img width="2000" height="2000" alt="NothingSpace_Mockup_1782218675335" src="https://github.com/user-attachments/assets/d79a4cb1-fe4b-4d81-a38a-240721d3e8e4" />
+
+---
+
 ## Features
 
 - **Dynamic Audio Visualization**: Watch your Glyphs dance to the rhythm of Gemini's voice!
