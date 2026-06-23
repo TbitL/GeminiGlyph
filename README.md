@@ -47,6 +47,16 @@ Developed by **TbitL**, a starter developer based in Saudi Arabia, this project 
 
 ---
 
+## Virustotal & Koodous Scans
+
+### Virustotal:
+https://www.virustotal.com/gui/file/af4b80838900520a525a3f8eb05ad044ad34d39a2a3128f9757a486e00a49d5d/summary
+
+### Koodous:
+https://koodous.com/apks/af4b80838900520a525a3f8eb05ad044ad34d39a2a3128f9757a486e00a49d5d/general-information
+
+---
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
