@@ -1,4 +1,4 @@
-~~# GeminiGlyph 
+# GeminiGlyph 
 
 > "Bringing life to your Phone(3a)/Pro Glyphs when Gemini speaks!"
 
